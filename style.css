@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+VIC+Guides&display=swap');
+
+:root{
+    --main-color:#deab5f;
+    --primary-color:#312e2e;
+}
+
+button{
+    padding: 10px 30px;
+    background: var(--main-color);
+    border: none;
+    cursor: pointer;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #100e0f;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #fff;
+    font-family: sans-serif;
+    padding-top: 15px;
+}
+
+li{
+    display: inline;
+    list-style: none;
+}
+li a{
+    color: #fff;
+    text-decoration: none;
+    margin-left: 40px;
+}
+li a:hover{
+    border-bottom: 2px solid var(--main-color);
+}
+
+.header{
+    background: url();
+}
