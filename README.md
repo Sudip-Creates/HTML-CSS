@@ -1,2 +1,2 @@
 # HTML-CSS
-These are all the projects i have made on html&amp;css.
+These are all the projects I have made on html & css.
